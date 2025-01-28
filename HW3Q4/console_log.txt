@@ -1,0 +1,68 @@
+(base) aleccepeda@Alecs-MacBook-Air build % ./HW3Q4 
+Hello, do you want to play a game?
+Possible reponses:
+yes | Yes | YES | y
+no | No | NO | n
+
+
+y
+no save file detected. starting new game
+Question: Does your animal live primarily in water?
+y
+Is your animal a(n) Octopus?
+NO
+OH NO! I GOT IT WRONG!!!
+What was your animal?
+Marlin
+Please give a question whose answer is YES for Marlin and NO for Octopus.
+Does your animal have fins?
+Play again?
+y
+Do you want to continue your game? (NO to load base tree again)
+y
+Question: Does your animal live primarily in water?
+y
+Question: Does your animal have fins?
+y
+Is your animal a(n) Marlin?
+y
+YAY! I GOT IT RIGHT!!!!
+Play again?
+y
+Do you want to continue your game? (NO to load base tree again)
+NO
+Question: Does your animal live primarily in water?
+y
+Is your animal a(n) Octopus?
+n
+OH NO! I GOT IT WRONG!!!
+What was your animal?
+Marlin 
+Please give a question whose answer is YES for Marlin and NO for Octopus.
+Does your animal have fins?
+Play again?
+n
+Save File Generated.
+Thanks for playing! Closing now.
+(base) aleccepeda@Alecs-MacBook-Air build % ./HW3Q4 
+Hello, do you want to play a game?
+Possible reponses:
+yes | Yes | YES | y
+no | No | NO | n
+
+
+y
+save file detected. Do you want to use it?
+y
+Question: Does your animal live primarily in water?
+y
+Question: Does your animal have fins?
+y
+Is your animal a(n) Marlin?
+y
+YAY! I GOT IT RIGHT!!!!
+Play again?
+n
+Save File Generated.
+Thanks for playing! Closing now.
+(base) aleccepeda@Alecs-MacBook-Air build % 

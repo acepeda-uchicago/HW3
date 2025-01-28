@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/HW3Q2.dir/HW3-2.cpp.o" -o HW3Q2
